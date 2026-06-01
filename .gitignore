@@ -1,0 +1,9 @@
+_build/
+*.install
+*.merlin
+.DS_Store
+
+# editor/local
+.vscode/
+.idea/
+.env
